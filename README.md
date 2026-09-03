@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <samp style="font-size: 30px">
+  <samp style="font-size: 40px">
       <br>
       Olá, meu nome é Vinicius Duarte</b>
   </samp>
