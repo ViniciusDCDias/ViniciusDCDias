@@ -46,7 +46,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:viniciusdcenzi@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vduarcnz_.)
-  [![Whatsapp](https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://www.wa.me/5512991442390)
+  [![Whatsapp](https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5512991442390)
 </div>
 <br>
 
