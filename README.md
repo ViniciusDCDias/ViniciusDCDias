@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ViniciusDCDias&style=flat-square&color=020491" /></p> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=ViniciusDCDias&style=flat-square&color=020491"/>
 </div>
 
 <br>
